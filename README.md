@@ -23,7 +23,7 @@ HTML5 • CSS3 • JavaScript
 ## 📸 Preview
 
 
-![image alt](https://github.com/Praneeth0904/Love-Calculator/blob/c4b83086f86e46af30cc8b23f78195a37de932c3/Love-caluclator.png)
+![image alt](https://github.com/Praneeth0904/BMI-Calculator/blob/0a2865d9aa9f2dc7345be63c03fceeaec0a12fbe/Images/BMI%20Calculator.png)
 
 
 ---
