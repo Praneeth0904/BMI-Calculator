@@ -23,7 +23,7 @@ HTML5 • CSS3 • JavaScript
 ## 📸 Preview
 
 
-![image alt](https://github.com/Praneeth0904/BMI-Calculator/blob/0a2865d9aa9f2dc7345be63c03fceeaec0a12fbe/Images/BMI%20Calculator.png)
+https://github.com/user-attachments/assets/0c53edd4-7a1a-4d9c-bd44-5675ade9e341
 
 
 ---
